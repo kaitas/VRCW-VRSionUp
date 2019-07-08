@@ -1,0 +1,14 @@
+1) [VRChat] VRCSDK
+https://docs.vrchat.com/docs/setting-up-the-sdk
+
+2) [Unity Technologies] Standard Assets
+https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351
+
+3) [Unity Technologies] ProBuilder 2.x
+https://assetstore.unity.com/packages/tools/modeling/probuilder-2-x-111418
+
+4) [jet(jetdog8808)] JetDogs-Prefabs
+https://github.com/jetdog8808/JetDogs-Prefabs/releases
+
+5) [遊び屋Books] VRchat用製本Unity拡張エディタ 無償版（エディタのみ）/プレゼン装置プレハブ
+https://asobiy3.booth.pm/items/1029902
